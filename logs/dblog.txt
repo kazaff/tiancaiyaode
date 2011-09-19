@@ -1,0 +1,228 @@
+2011-09-18 16:17:38 释放结果集
+2011-09-18 16:17:38 完成整个查询任务,所用时间为0.243276834488
+2011-09-18 16:21:10 查询 select * from staff where account='asdf' and password='adsf' and isAllow=1 limit 1
+2011-09-18 16:21:10 获取一条记录 select * from staff where account='asdf' and password='adsf' and isAllow=1 limit 1
+2011-09-18 16:21:10 释放结果集
+2011-09-18 16:21:10 完成整个查询任务,所用时间为0.390780925751
+2011-09-18 16:21:19 查询 select * from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-18 16:21:19 获取一条记录 select * from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-18 16:21:19 释放结果集
+2011-09-18 16:21:19 完成整个查询任务,所用时间为0.0420639514923
+2011-09-18 16:26:41 查询 select * from staff where account='sadf' and password='asdf' and isAllow=1 limit 1
+2011-09-18 16:26:41 获取一条记录 select * from staff where account='sadf' and password='asdf' and isAllow=1 limit 1
+2011-09-18 16:26:41 释放结果集
+2011-09-18 16:26:41 完成整个查询任务,所用时间为0.0416669845581
+2011-09-18 16:57:37 查询 select * from staff where account='select' and password='asdffds' and isAllow=1 limit 1
+2011-09-18 16:57:37 获取一条记录 select * from staff where account='select' and password='asdffds' and isAllow=1 limit 1
+2011-09-18 16:57:37 释放结果集
+2011-09-18 16:57:37 完成整个查询任务,所用时间为0.0377368927002
+2011-09-18 17:06:56 查询 select * from staff where account='ksdf\'sdf' and password='sdf' and isAllow=1 limit 1
+2011-09-18 17:06:56 获取一条记录 select * from staff where account='ksdf\'sdf' and password='sdf' and isAllow=1 limit 1
+2011-09-18 17:06:56 释放结果集
+2011-09-18 17:06:56 完成整个查询任务,所用时间为0.0619921684265
+2011-09-18 17:07:58 查询 select * from staff where account='kaza\'s' and password='sdf' and isAllow=1 limit 1
+2011-09-18 17:07:58 获取一条记录 select * from staff where account='kaza\'s' and password='sdf' and isAllow=1 limit 1
+2011-09-18 17:07:58 释放结果集
+2011-09-18 17:07:58 完成整个查询任务,所用时间为0.0654859542847
+2011-09-18 17:30:11 查询 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-18 17:30:11 获取一条记录 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-18 17:30:11 释放结果集
+2011-09-18 17:30:11 完成整个查询任务,所用时间为0.0735931396484
+2011-09-18 17:41:33 查询 select sid,name,type from staff where account='kazaff' and password='sdf' and isAllow=1 limit 1
+2011-09-18 17:41:33 获取一条记录 select sid,name,type from staff where account='kazaff' and password='sdf' and isAllow=1 limit 1
+2011-09-18 17:41:33 释放结果集
+2011-09-18 17:41:33 完成整个查询任务,所用时间为0.0775299072266
+2011-09-18 17:41:41 查询 select sid,name,type from staff where account='admin' and password='123456' and isAllow=1 limit 1
+2011-09-18 17:41:41 获取一条记录 select sid,name,type from staff where account='admin' and password='123456' and isAllow=1 limit 1
+2011-09-18 17:41:41 释放结果集
+2011-09-18 17:41:41 完成整个查询任务,所用时间为0.0025691986084
+2011-09-18 17:41:46 查询 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-18 17:41:46 获取一条记录 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-18 17:41:46 释放结果集
+2011-09-18 17:41:46 完成整个查询任务,所用时间为0.00249004364014
+2011-09-18 17:47:40 查询 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-18 17:47:40 获取一条记录 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-18 17:47:40 释放结果集
+2011-09-18 17:47:40 完成整个查询任务,所用时间为0.0537509918213
+2011-09-18 17:53:22 查询 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-18 17:53:22 获取一条记录 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-18 17:53:22 释放结果集
+2011-09-18 17:53:22 完成整个查询任务,所用时间为0.096137046814
+2011-09-18 20:25:13 查询 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-18 20:25:13 获取一条记录 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-18 20:25:13 释放结果集
+2011-09-18 20:25:13 完成整个查询任务,所用时间为0.0914430618286
+2011-09-18 20:25:54 查询 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:25:54 获取全部记录 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:25:54 释放结果集
+2011-09-18 20:25:54 完成整个查询任务,所用时间为0.162703990936
+2011-09-18 20:26:09 查询 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:26:09 获取全部记录 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:26:09 释放结果集
+2011-09-18 20:26:09 完成整个查询任务,所用时间为0.0141489505768
+2011-09-18 20:26:19 查询 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:26:19 获取全部记录 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:26:19 释放结果集
+2011-09-18 20:26:19 完成整个查询任务,所用时间为0.00714516639709
+2011-09-18 20:27:14 查询 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:27:14 获取全部记录 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:27:14 释放结果集
+2011-09-18 20:27:14 完成整个查询任务,所用时间为0.0640320777893
+2011-09-18 20:27:15 查询 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:27:15 获取全部记录 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:27:15 释放结果集
+2011-09-18 20:27:15 完成整个查询任务,所用时间为0.0028920173645
+2011-09-18 20:27:28 查询 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:27:28 获取全部记录 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:27:28 释放结果集
+2011-09-18 20:27:28 完成整个查询任务,所用时间为0.00313115119934
+2011-09-18 20:28:17 查询 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:28:17 获取全部记录 select domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:28:17 释放结果集
+2011-09-18 20:28:17 完成整个查询任务,所用时间为0.0423269271851
+2011-09-18 20:41:35 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:41:35 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:41:35 释放结果集
+2011-09-18 20:41:35 完成整个查询任务,所用时间为0.0895059108734
+2011-09-18 20:41:41 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:41:41 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:41:41 释放结果集
+2011-09-18 20:41:41 完成整个查询任务,所用时间为0.00651597976685
+2011-09-18 20:41:56 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:41:56 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:41:56 释放结果集
+2011-09-18 20:41:56 完成整个查询任务,所用时间为0.00844788551331
+2011-09-18 20:41:57 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:41:57 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:41:57 释放结果集
+2011-09-18 20:41:57 完成整个查询任务,所用时间为0.00698518753052
+2011-09-18 20:41:58 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:41:58 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:41:58 释放结果集
+2011-09-18 20:41:58 完成整个查询任务,所用时间为0.0115141868591
+2011-09-18 20:42:00 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:42:00 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:42:00 释放结果集
+2011-09-18 20:42:00 完成整个查询任务,所用时间为0.00984597206116
+2011-09-18 20:42:01 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:42:01 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:42:01 释放结果集
+2011-09-18 20:42:01 完成整个查询任务,所用时间为0.0470669269562
+2011-09-18 20:42:02 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:42:02 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:42:02 释放结果集
+2011-09-18 20:42:02 完成整个查询任务,所用时间为0.0229880809784
+2011-09-18 20:42:03 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:42:03 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:42:03 释放结果集
+2011-09-18 20:42:03 完成整个查询任务,所用时间为0.00818705558777
+2011-09-18 20:42:56 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:42:57 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-18 20:42:57 释放结果集
+2011-09-18 20:42:57 完成整个查询任务,所用时间为0.0964000225067
+2011-09-19 12:42:24 查询 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-19 12:42:24 获取一条记录 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-19 12:42:24 释放结果集
+2011-09-19 12:42:24 完成整个查询任务,所用时间为0.533094882965
+2011-09-19 12:42:29 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:42:29 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:42:29 释放结果集
+2011-09-19 12:42:29 完成整个查询任务,所用时间为0.829166889191
+2011-09-19 12:44:44 插入 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','kazaff','123123','www.buildin9.com','1','2011-09-19 12:44:44','2011-11-11')
+2011-09-19 12:44:44 查询 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','kazaff','123123','www.buildin9.com','1','2011-09-19 12:44:44','2011-11-11')
+2011-09-19 12:44:44 最后插入的id为1
+2011-09-19 12:44:44 插入 insert into clientInfo(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('1','buildin9','kazaff','123','123','123','edisondik@163.com','123','')
+2011-09-19 12:44:44 查询 insert into clientInfo(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('1','buildin9','kazaff','123','123','123','edisondik@163.com','123','')
+2011-09-19 12:44:44 释放结果集
+2011-09-19 12:44:44 完成整个查询任务,所用时间为0.0062530040741
+2011-09-19 12:44:44 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:44:44 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:44:44 释放结果集
+2011-09-19 12:44:44 完成整个查询任务,所用时间为0.00181794166565
+2011-09-19 12:44:49 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:44:49 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:44:49 释放结果集
+2011-09-19 12:44:49 完成整个查询任务,所用时间为0.0034008026123
+2011-09-19 12:54:36 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:54:36 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:54:36 释放结果集
+2011-09-19 12:54:36 完成整个查询任务,所用时间为0.0307660102844
+2011-09-19 12:54:37 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:54:37 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:54:37 释放结果集
+2011-09-19 12:54:37 完成整个查询任务,所用时间为0.00164699554443
+2011-09-19 12:55:02 查询 start transaction
+2011-09-19 12:55:02 插入 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','tc','tc','tc','1','2011-09-19 12:55:02','2011-11-11')
+2011-09-19 12:55:02 查询 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','tc','tc','tc','1','2011-09-19 12:55:02','2011-11-11')
+2011-09-19 12:55:02 最后插入的id为2
+2011-09-19 12:55:02 插入 insert into clientInfo(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('2','tc','tc','123','123','123','123','123','')
+2011-09-19 12:55:02 查询 insert into clientInfo(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('2','tc','tc','123','123','123','123','123','')
+2011-09-19 12:55:02 查询 commit
+2011-09-19 12:55:02 释放结果集
+2011-09-19 12:55:02 完成整个查询任务,所用时间为0.403158903122
+2011-09-19 12:55:02 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:55:02 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:55:02 释放结果集
+2011-09-19 12:55:02 完成整个查询任务,所用时间为0.00196504592896
+2011-09-19 12:58:04 查询 start transaction
+2011-09-19 12:58:04 插入 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','tc','tc','tc','1','2011-09-19 12:58:04','2011-11-11')
+2011-09-19 12:58:04 查询 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','tc','tc','tc','1','2011-09-19 12:58:04','2011-11-11')
+2011-09-19 12:58:04 最后插入的id为3
+2011-09-19 12:58:04 插入 insert into clientInfo(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('3','tc','tc','123','123','123','13','231','')
+2011-09-19 12:58:04 查询 insert into clientInfo(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('3','tc','tc','123','123','123','13','231','')
+2011-09-19 12:58:04 查询 commit
+2011-09-19 12:58:04 释放结果集
+2011-09-19 12:58:04 完成整个查询任务,所用时间为0.365765094757
+2011-09-19 12:58:04 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:58:04 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:58:04 释放结果集
+2011-09-19 12:58:04 完成整个查询任务,所用时间为0.00166296958923
+2011-09-19 12:58:31 查询 start transaction
+2011-09-19 12:58:31 插入 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','asdf','asdf','asdf','1','2011-09-19 12:58:31','2011-11-11')
+2011-09-19 12:58:31 查询 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','asdf','asdf','asdf','1','2011-09-19 12:58:31','2011-11-11')
+2011-09-19 12:58:31 最后插入的id为4
+2011-09-19 12:58:31 插入 insert into clientInfo1(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('4','asdf','asdf','123','123','123','123','132','')
+2011-09-19 12:58:31 查询 insert into clientInfo1(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('4','asdf','asdf','123','123','123','123','132','')
+2011-09-19 12:58:31 Query Error: insert into clientInfo1(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('4','asdf','asdf','123','123','123','123','132','')
+Table 'clientmanager.clientinfo1' doesn't exist
+2011-09-19 12:58:31 释放结果集
+2011-09-19 12:58:31 完成整个查询任务,所用时间为0.036276102066
+2011-09-19 12:59:49 查询 start transaction
+2011-09-19 12:59:49 插入 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','asdf','asdf','asdf','1','2011-09-19 12:59:49','sdf')
+2011-09-19 12:59:49 查询 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','asdf','asdf','asdf','1','2011-09-19 12:59:49','sdf')
+2011-09-19 12:59:49 最后插入的id为5
+2011-09-19 12:59:49 插入 insert into clientInfo(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('5','asdf','asdf','123','123','123','123','132','')
+2011-09-19 12:59:49 查询 insert into clientInfo(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('5','asdf','asdf','123','123','123','123','132','')
+2011-09-19 12:59:49 查询 commit
+2011-09-19 12:59:49 释放结果集
+2011-09-19 12:59:49 完成整个查询任务,所用时间为0.0114169120789
+2011-09-19 12:59:49 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:59:49 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 12:59:49 释放结果集
+2011-09-19 12:59:49 完成整个查询任务,所用时间为0.00205302238464
+2011-09-19 13:00:01 查询 start transaction
+2011-09-19 13:00:01 插入 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','asdf','asdf','asdf','1','2011-09-19 13:00:01','sdfasdf')
+2011-09-19 13:00:01 查询 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','asdf','asdf','asdf','1','2011-09-19 13:00:01','sdfasdf')
+2011-09-19 13:00:01 最后插入的id为6
+2011-09-19 13:00:01 插入 insert into clientInfo(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('6','asdf','asdf','123','123','123','123','132','')
+2011-09-19 13:00:01 查询 insert into clientInfo(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('6','asdf','asdf','123','123','123','123','132','')
+2011-09-19 13:00:01 查询 commit
+2011-09-19 13:00:01 释放结果集
+2011-09-19 13:00:01 完成整个查询任务,所用时间为0.0026650428772
+2011-09-19 13:00:01 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 13:00:01 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 13:00:01 释放结果集
+2011-09-19 13:00:01 完成整个查询任务,所用时间为0.00198602676392
+2011-09-19 13:00:19 查询 start transaction
+2011-09-19 13:00:19 插入 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','asdf','asdf','asdfasf','1','2011-09-19 13:00:19','sadfasfd')
+2011-09-19 13:00:19 查询 insert into account(`sid`,`account`,`password`,`domain`,`isAllow`,`startDate`,`endDate`) values('1','asdf','asdf','asdfasf','1','2011-09-19 13:00:19','sadfasfd')
+2011-09-19 13:00:19 最后插入的id为7
+2011-09-19 13:00:19 插入 insert into clientInfo(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('7','asdf','asdf','123','123','123','132','123','')
+2011-09-19 13:00:19 查询 insert into clientInfo(`uid`,`comName`,`boss`,`mobile`,`tel`,`qq`,`email`,`address`,`remark`) values('7','asdf','asdf','123','123','123','132','123','')
+2011-09-19 13:00:19 查询 commit
+2011-09-19 13:00:19 释放结果集
+2011-09-19 13:00:19 完成整个查询任务,所用时间为0.0163688659668
+2011-09-19 13:00:19 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 13:00:19 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-19 13:00:19 释放结果集
+2011-09-19 13:00:19 完成整个查询任务,所用时间为0.00188493728638
