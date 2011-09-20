@@ -226,3 +226,23 @@ Table 'clientmanager.clientinfo1' doesn't exist
 2011-09-19 13:00:19 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
 2011-09-19 13:00:19 释放结果集
 2011-09-19 13:00:19 完成整个查询任务,所用时间为0.00188493728638
+2011-09-20 14:38:40 查询 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-20 14:38:40 获取一条记录 select sid,name,type from staff where account='admin' and password='admin' and isAllow=1 limit 1
+2011-09-20 14:38:40 释放结果集
+2011-09-20 14:38:40 完成整个查询任务,所用时间为0.0070579051971436
+2011-09-20 14:38:42 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-20 14:38:42 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-20 14:38:42 释放结果集
+2011-09-20 14:38:42 完成整个查询任务,所用时间为0.0083799362182617
+2011-09-20 14:39:15 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-20 14:39:15 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-20 14:39:15 释放结果集
+2011-09-20 14:39:15 完成整个查询任务,所用时间为0.0081958770751953
+2011-09-20 14:41:40 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-20 14:41:40 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-20 14:41:40 释放结果集
+2011-09-20 14:41:40 完成整个查询任务,所用时间为0.0070731639862061
+2011-09-20 14:43:21 查询 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-20 14:43:21 获取全部记录 select comName,domain,isAllow,endDate from account a left join clientInfo c on a.uid = c.uid order by a.uid desc
+2011-09-20 14:43:21 释放结果集
+2011-09-20 14:43:21 完成整个查询任务,所用时间为0.0087249279022217
