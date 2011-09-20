@@ -58,7 +58,7 @@ class DB{
 		$query = $this->query($sql);
 		$i = 0;
 		$rt = array();
-		while($row =& mysql_fetch_array($query,$result_type)) {
+		while($row = mysql_fetch_array($query,$result_type)) {
 			$rt[$i]=$row;
 			$i++;
 		}
