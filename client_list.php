@@ -29,6 +29,9 @@ $clientList = $db->get_all($sql);
 			<div id="toolBar">
 				<a href="client_add.php" title="添加客户">财神来到</a>
 			</div>
+			<div id="list">
+				
+			</div>
 		</div>
 	</div>
 	<div id="footerBox">
