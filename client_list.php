@@ -16,6 +16,7 @@ if(0 == $_SESSION['usertype']){
 }
 
 $clientList = $db->get_all($sql);
+var_dump($clientList);
 ?>
 <div id="bigBox">
 	<div id="headerBox">
